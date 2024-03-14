@@ -43,3 +43,8 @@ These are the improved textures included in this pack:
 -   General textures found in better quality in other parts or versions of the game.
 ## How to use
 Click on the "Code" button and select Download ZIP to download the pack. To use this texture pack you need PCSX2. Go into "textures" folder, if it doesn't exist create a folder with the game serial you're going to use (e.g. "SLES-XXXXX"), inside this folder create a folder named "replacements", and extract the texture pack inside. Your address should look something like this: "PCSX2\textures\SLES-XXXXX\replacements". To activate the texture pack, go to "Graphics" settings, "Texture Replacement" tab and activate "Load Textures", "Asynchronous Texture Loading" and "Prechache Textures".
+## Recommended way to play
+On top of using the texture pack, it is recomended to do the following changes in the PCSX2 config settings to get the best experience:
+-   If you use a widescreen, activate "Enable Widescreen Patches" in the Graphics settings.
+-   In the game specific settings, go to Patches and activate 60 FPS if you are playing NTSC-U or 50 FPS if you are playing PAL, then also activate the 180% EE Overclock in Emulation settings for the game.
+-   If you are playing a PAL version, go to Advanced settings, look for the PAL Frame Rate option and change it to 60 hz. Now the game will play in flawless 60 FPS.

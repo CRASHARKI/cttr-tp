@@ -19,7 +19,7 @@ These are the improved textures included in this pack:
 -   On-screen text - German
 -   On-screen text - Italian (WIP)
 -   On-screen text - Spanish (TODO)
--   On-screen text - Japanese (WIP)
+-   On-screen text - Japanese (Partially done, cancelled)
 -   Fonts from all three regional versions.
 -   Game modes icons.
 -   General frontend.
@@ -31,11 +31,11 @@ These are the improved textures included in this pack:
 -   Map and icons from Adventure mode.
 -   Movie thumbnails (Manually taken from actual video frames upscaled).
 -   Die-o-rama thumbnails.
--   Die-o-rama Japanese thumbnails. (TODO)
+-   Die-o-rama Japanese thumbnails. (Cancelled)
 -   Gag thumbnails.
--   Gag Japanese thumbnails. (TODO)
+-   Gag Japanese thumbnails. (Cancelled)
 -   Story thumbnails.
--   Story Japanese thumbnails. (WIP)
+-   Story Japanese thumbnails. (Partially done, cancelled)
 -   Track Secret thumbnails.
 -   Theme logos.
 -   Track maps (Menu and ingame).

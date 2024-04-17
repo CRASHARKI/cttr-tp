@@ -7,7 +7,7 @@ It's compatible with all three regions of the game:
 -   NTSC-J (SLPM-66090)
 ## Content
 These are the improved textures included in this pack:
--   Upscaled characters and Skins. (WIP)
+-   Upscaled characters and Skins.
 -   Controller layout. (PS2, NGC and XBOX - Leave the folder of the layout you want and delete the other 2 folders)
 -   Custom Gift Shop icons for the cars (Manually rendered recreations of the originals) (Delete this folder if you prefer the original upscaled icons).
 -   Driving general frontend.
@@ -18,7 +18,7 @@ These are the improved textures included in this pack:
 -   On-screen text - French (TODO)
 -   On-screen text - German
 -   On-screen text - Italian (WIP)
--   On-screen text - Spanish (TODO)
+-   On-screen text - Spanish
 -   On-screen text - Japanese (Partially done, cancelled)
 -   Fonts from all three regional versions.
 -   Game modes icons.
@@ -26,6 +26,7 @@ These are the improved textures included in this pack:
 -   Arrow and X on the floor from Adventure mode.
 -   Gift Shop icons.
 -   Grand Prix logos.
+-   On-foot levels, minigames and skyboxes.
 -   Loadscreen (Western and Japanese).
 -   Main menu.
 -   Map and icons from Adventure mode.

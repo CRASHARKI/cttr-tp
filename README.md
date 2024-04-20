@@ -14,7 +14,7 @@ These are the improved textures included in this pack:
 -   Car classes icons.
 -   Character icons (Normal, destroyed and minimap).
 -   Gun icons (Menu, race and unselected).
--   On-screen text - English (TODO)
+-   On-screen text - English
 -   On-screen text - French (TODO)
 -   On-screen text - German
 -   On-screen text - Italian (WIP)

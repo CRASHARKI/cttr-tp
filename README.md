@@ -2,12 +2,12 @@
 This is a texture pack created for the PlayStation 2 version of the game. Some of these textures were taken from other versions or parts of the game. Others were upscaled or modified.
 ## Compatibility
 It's compatible with all three regions of the game:
--   NTSC-U (SLUS-20909)
--   PAL (SLUS-21191)
+-   NTSC-U (SLUS-21191)
+-   PAL (SLES-53439)
 -   NTSC-J (SLPM-66090)
 ## Content
 These are the improved textures included in this pack:
--   Upscaled characters and Skins.
+-   Upscaled characters and skins.
 -   Controller layout. (PS2, NGC and XBOX - Leave the folder of the layout you want and delete the other 2 folders)
 -   Custom Gift Shop icons for the cars (Manually rendered recreations of the originals) (Delete this folder if you prefer the original upscaled icons).
 -   Driving general frontend.
